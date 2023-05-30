@@ -1,4 +1,5 @@
 # Mars-Monetary-System
+## * This repository is for educational purposes only! *
 # Background
 This system introduces a new cryptocurrency named KaseiCoin ("Kasei" means "Mars" in Japanese).
 - KaseiCoin is an ERC-20 compliant fungible token, and a crowdsale will be launched for individauls moving to Mars to convert their earth currency to KaseiCoin. 
